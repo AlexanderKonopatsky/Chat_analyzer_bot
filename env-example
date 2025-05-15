@@ -1,0 +1,6 @@
+# Этот файл - пример. Скопируйте его в файл .env и заполните значения
+# API ключи
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+# Настройки бота
+TELEGRAM_BOT_TOKEN=7982004413:AAHW-NHd2ax_7b7i53nE5nyBu-JYMGqsdm0 

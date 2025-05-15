@@ -1,0 +1,43 @@
+# Локальные конфигурации
+.env
+
+# Директории с загруженными файлами и результатами
+telegram_uploads/
+telegram_extracted/
+telegram_results/
+telegram_prompts/
+telegram_analysis/
+extracted_text/
+extracted/
+converted/
+messages/
+split_messages/
+result/
+
+# Зависимости
+node_modules/
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS файлы
+.DS_Store
+Thumbs.db
+
+# Большие и конфиденциальные файлы
+*.zip
+*.rar
+*.json
+*.txt
+!env-example
+
+# Дополнительно исключаемые файлы
+hugin_face.js
+split_file.ps1
+merge_and_split.ps1
+requirements.txt
+
+# Игнорировать папки с данными
+telegram_*/ 
