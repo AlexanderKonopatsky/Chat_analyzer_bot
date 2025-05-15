@@ -38,6 +38,7 @@ hugin_face.js
 split_file.ps1
 merge_and_split.ps1
 requirements.txt
+extract_data.py
 
 # Игнорировать папки с данными
 telegram_*/ 
